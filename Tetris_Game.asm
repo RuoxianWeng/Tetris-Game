@@ -1,7 +1,3 @@
-# Bitmap Project: Simple Tetris Game
-# Ruoxian Weng
-# 10-25-2021
-
 # set pixel to 16x16
 # set dimension to 512x512 
 # set base address to $gp
